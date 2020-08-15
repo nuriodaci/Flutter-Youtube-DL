@@ -1,6 +1,6 @@
-# ytdl
+# YTDL
 
-A new Flutter project.
+An android application for download music from youtube.
 
 ## Getting Started
 
